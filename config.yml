@@ -17,7 +17,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
-
+ favicon: "/favicon.ico"  
   homeInfoParams:
     Title: "Hi there 👋"
     Content: "Welcome to fleed "
