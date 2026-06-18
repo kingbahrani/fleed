@@ -31,7 +31,7 @@ My personal blog built with [Hugo](https://gohugo.io/) – a place where I write
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kingx87/fleed.git
+   git clone https://github.com/kingbahrani/fleed.git
    cd fleed
    ```
 
