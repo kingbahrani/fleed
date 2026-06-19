@@ -42,7 +42,7 @@ So why am I talking about this now? It's all because of Artemis II. We traveled 
 
  In Artemis II, they took nearly 12,000 images of Earth and the moon, mostly the moon, and the far side of the moon, which I like to call the hidden side of the moon. It's interesting that I learned about this fact all because of my father and an anime called Grendizer. Even when I showed him the new images of the far side of the moon, he immediately mentioned the alien Vega base on the moon (Skull Moon Base). There are a lot of cool pictures of the moon, especially of the interesting far side . But in my strong opinion, Earth looks 100% better. The moon is ugly, to be honest.
   
-{{< figure src="earth1.jpg" alt="Hello, World" caption="In the name of the beautiful Earth" link="https://www.nasa.gov/image-detail/amf-art002e012183/" >}}
+{{< figure src="earth1.jpg" alt="Hello, World" caption="In the name of the beautiful Earth" link="https://www.nasa.gov/image-detail/fd02_for-pao/" >}}
 
 This was my first time writing something that others may read. And I actually think this is the best topic for my first ever blog that could have come to me. Months ago, I told  myself that i needed to start writing. There was nothing to write about, but it was going come by itself, and it did. It's a little bit late, and Artemis II mission is old news now. But what can be done? When NASA started and finished the mission, I had no internet connection. And today is the day that this could be posted. It's late and there is nothing that i can do about it, but it wasn't my fault. Btw, thanks for reading this post.
 
