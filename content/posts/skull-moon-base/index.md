@@ -50,7 +50,7 @@ This was my first time writing something that others may read. And I actually th
 
 
 
-[comment@fleed.ir](mailto:comment@fleed.ir)
+[comments@fleed.ir](mailto:comments@fleed.ir)
 
 
 
